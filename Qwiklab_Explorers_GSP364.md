@@ -10,11 +10,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Identify-Application-Vulnerabilities-with-Security-Command-Center-GSP1262/refs/heads/main/qwiklab_explorers_gsp1262_task-1.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Monitor-Environments-with-Google-Cloud-Managed-Service-for-Prometheus-Challenge-Lab-GSP364/refs/heads/main/qwiklab_explorers_gsp364.sh
 
-sudo chmod +x qwiklab_explorers_gsp1262_task-1.sh
+sudo chmod +x qwiklab_explorers_gsp364.sh
 
-./qwiklab_explorers_gsp1262_task-1.sh
+./qwiklab_explorers_gsp364.sh
 ```
 
 ---
